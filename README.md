@@ -1,4 +1,4 @@
-# 🌍 Industrialization vs Decarbonization: EU Analysis
+# Industrialization vs Decarbonization: EU Analysis
 
 <div align="center">
 
@@ -26,19 +26,19 @@ This project analyzes 15 years of data from Germany, France, Italy, Poland, Spai
 **Date:** February 20, 2026
 
 ### 👥 Team Members
-- **Tahsin Ahmed** (ID: 848815)
-- **Harikrushn Dhanjibhai Dudhat** (ID: 864631)  
-- **Mohamed Asique Salman Kaja Najumudeen** (ID: 711339)
+- **Tahsin Ahmed**
+- **Harikrushn Dhanjibhai Dudhat**
+- **Mohamed Asique Salman Kaja Najumudeen**
 
 ---
 
-## 🎯 Research Question
+## Research Question
 
 > **Does stringent carbon pricing in the EU ETS reduce industrial competitiveness or drive green innovation?**
 
 ---
 
-## 🏆 Key Findings
+## Key Findings
 
 ### **VERDICT: Green Growth is Real** ✅
 
@@ -60,7 +60,7 @@ Our statistical analysis reveals three critical insights:
 - Industry absorbed both shocks **simultaneously** without collapse
 - The system proved **resilient under extreme stress**
 
-### 📊 Bottom Line
+### Bottom Line
 **Decoupling is happening.** The EU is achieving emissions reduction while maintaining industrial strength—this is measurable reality, not theory.
 
 ---
@@ -81,7 +81,7 @@ Our statistical analysis reveals three critical insights:
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Data Sources
 - **Emissions**: EDGAR v8.0 (Total GHG inventory)
@@ -105,23 +105,23 @@ ln(GVA_it) = α_i + β₁·ln(CarbonPrice_t) + β₂·Controls_it + γ_t + ε_it
 
 ## 💡 Policy Implications
 
-### ✅ **Stay the Course**
+### **Stay the Course**
 - Do NOT dilute "Fit for 55" targets—high carbon prices are working
 - Industry has proven resilience at €80+ per tonne
 
-### 🎯 **Support Regional Transitions**  
+### **Support Regional Transitions**  
 - Poland faces 2-3x higher carbon intensity than Western Europe
 - Expand **Modernisation Fund** for Eastern EU states
 - Ensure just transition for coal-dependent regions
 
-### 🚀 **Accelerate Innovation Infrastructure**
+### **Accelerate Innovation Infrastructure**
 - Strengthen renewable electricity grids
 - Develop cross-border hydrogen networks  
 - Streamline clean tech permitting processes
 
 ---
 
-## 🔮 Future Research
+## Future Research
 
 ### Critical Test Ahead (2026-2030)
 The **phase-out of free carbon allocations** (2026-2030) will be the definitive test of industrial resilience. Our findings cover the period up to 2024 when many industries still received partial protection.
@@ -133,7 +133,7 @@ The **phase-out of free carbon allocations** (2026-2030) will be the definitive 
 
 ---
 
-## 🛠️ Quick Start
+## Quick Start
 
 ```bash
 # Clone repository
@@ -167,7 +167,7 @@ If you use this research, please cite:
 
 ## Full Report
 
-📎 [Download Complete Academic Report (PDF)](./docs/final_report.pdf)
+📎 [Download Complete Academic Report (PDF)](./main/Industrialization_vs_Carbonization.pdf)
 
 ---
 

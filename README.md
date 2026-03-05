@@ -13,7 +13,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 With EU carbon prices surging to €80+ per tonne, a critical question emerges: **Are we reducing emissions through innovation, or just closing factories?**
 
@@ -23,11 +23,11 @@ This project analyzes 15 years of data from Germany, France, Italy, Poland, Spai
 
 **Supervising tutor:** Dr. Shadi Saleh  
 **Institution:** Technische Universität Chemnitz  
-**Date:** February 20, 2026
+**Time:** February, 2026
 
-### 👥 Team Members
-- **Tahsin Ahmed**
+### Team Members
 - **Harikrushn Dhanjibhai Dudhat**
+- **Tahsin Ahmed**
 - **Mohamed Asique Salman Kaja Najumudeen**
 
 ---
@@ -72,11 +72,11 @@ Our statistical analysis reveals three critical insights:
 *No statistical evidence that carbon prices harm industrial output—even with full controls for inflation and crisis periods*
 
 ### 2. Innovation Effect: The Porter Hypothesis in Action  
-![H2 Results](https://via.placeholder.com/800x400/1565C0/FFFFFF?text=Figure+7.2:+Lagged+Effects+on+Carbon+Intensity)
+![H2 Results](output/figures/fig13_porter_hypothesis_lags.png)
 *Strong negative effect on carbon intensity with 1-2 year lag—clear proof that firms innovate in response to price signals*
 
 ### 3. The Crisis Period: Emissions Fall Faster Than Output
-![Crisis Analysis](https://via.placeholder.com/800x400/C62828/FFFFFF?text=Figure+5.3:+Industrial+Output+vs+Emissions+(2021-2024))
+![Crisis Analysis](output/figures/fig11_crisis_comparison.png)
 *During 2021-2024, all six countries reduced emissions significantly while industrial output remained relatively stable*
 
 ---

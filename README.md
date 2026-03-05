@@ -137,7 +137,7 @@ The **phase-out of free carbon allocations** (2026-2030) will be the definitive 
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/eu-carbon-analysis.git
+git clone https://github.com/your-username/Industrialization-vs-Decarbonization-DataAnalytics.git
 
 # Install dependencies  
 pip install -r requirements.txt

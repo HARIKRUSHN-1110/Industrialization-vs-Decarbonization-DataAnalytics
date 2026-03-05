@@ -1,0 +1,12 @@
+Variable,Model 1,Model 2,Model 3,Model 8
+ln(Carbon Price),0.0339,0.0016,0.0075,0.0038
+PPI Index,,0.0006,0.0010,0.0029
+Free Allocation %,,-0.0020,-0.0020,
+COVID Period,,,-0.0165,0.0101
+Energy Crisis,,,-0.0371,0.2080
+Carbon × Crisis,,,,-0.0032
+Constant,12.1728,12.3567,12.3056,11.9454
+,,,,
+R² (within),0.2639,0.4113,0.4271,0.3814
+Observations,90,90,90,90
+Countries,6,6,6,6

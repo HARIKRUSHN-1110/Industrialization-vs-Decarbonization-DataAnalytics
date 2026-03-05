@@ -167,7 +167,7 @@ If you use this research, please cite:
 
 ## Full Report
 
-📎 [Download Complete Academic Report (PDF)](./blob/main/Industrialization_vs_Carbonization.pdf)
+📎 [Download Complete Academic Report (PDF)](./Industrialization_vs_Carbonization.pdf)
 
 ---
 

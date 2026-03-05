@@ -17,7 +17,7 @@
 
 With EU carbon prices surging to €80+ per tonne, a critical question emerges: **Are we reducing emissions through innovation, or just closing factories?**
 
-This project analyzes 15 years of data from Germany, France, Italy, Poland, Spain, and Netherlands to distinguish between:
+This project analyzes 15 years of data from 6 major EU economies **Germany, France, Italy, Poland, Spain, and Netherlands** to distinguish between:
 - ✅ **True Decarbonization**: Becoming more efficient  
 - ❌ **Deindustrialization**: Losing manufacturing base
 
@@ -68,7 +68,7 @@ Our statistical analysis reveals three critical insights:
 ## 📈 Key Visualizations
 
 ### 1. Industrial Resilience Under High Carbon Prices
-![H1 Results](https://via.placeholder.com/800x400/2E7D32/FFFFFF?text=Figure+7.1:+Effect+of+Carbon+Price+on+Industrial+Output)
+![H1 Results](output/figures/fig12_coefficient_comparison.png)
 *No statistical evidence that carbon prices harm industrial output—even with full controls for inflation and crisis periods*
 
 ### 2. Innovation Effect: The Porter Hypothesis in Action  
@@ -157,8 +157,8 @@ If you use this research, please cite:
 ```bibtex
 @techreport{ahmed2026industrialization,
   title={Industrialization vs Decarbonization: A Data-Driven Analysis of Major European Economies},
-  author={Ahmed, Tahsin and Dudhat, Harikrushn D. and Najumudeen, Mohamed A.S.K.},
-  institution={Technische Universität Chemnitz},
+  author={Ahmed Tahsin, Dudhat Harikrushn Dhanjibhai, and Najumudeen Mohamed A.S.K.},
+  institution={Technische Universität Chemnitz, Germany},
   year={2026}
 }
 ```

@@ -7,7 +7,7 @@
 *A data-driven analysis of 6 major European economies (2010-2025)*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Research](https://img.shields.io/badge/Research-Data_Analytics-green.svg)]()
+[![Research](https://img.shields.io/badge/Research-Data_Analytics-green.svg)](./Industrialization_vs_Carbonization.pdf)
 
 </div>
 

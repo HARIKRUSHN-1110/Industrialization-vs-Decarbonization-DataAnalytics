@@ -173,6 +173,6 @@ If you use this research, please cite:
 
 <div align="center">
 
-**Green Growth is Not a Dream—It's Measurable Reality**
+**“Progress means not choosing between growth and the planet, but achieving both.”**
 
 </div>
